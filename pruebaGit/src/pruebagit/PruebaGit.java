@@ -16,6 +16,10 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         System.out.println("cambio realizado de prueba");
+          System.out.println("cambio realizado de prueba");
+            System.out.println("cambio realizado de prueba");
+              System.out.println("cambio realizado de prueba");
+                System.out.println("cambio realizado de prueba");
     }
     
 }
